@@ -1,5 +1,4 @@
-# About Me
-Hi, I'm Enrique, an undergraduate student in Data Science and AI with a passion for innovation and creativity. I'm driven by a relentless desire to create meaningful solutions that leave a lasting impact on the world. As the saying goes, "The best way to predict the future is to invent it," and I'm eager to contribute to shaping the future of tech. Outside of academics and coding, I enjoy bodybuilding and meditation. I'm excited to connect with like-minded individuals and contribute to the tech community through my work.
+I am an undergraduate student in Data Science and AI with a passion for innovation and creativity. I'm driven by a relentless desire to create meaningful solutions that leave a lasting impact on the world. As the saying goes, "The best way to predict the future is to invent it," and I'm eager to contribute to shaping the future of tech. Outside of academics and coding, I enjoy bodybuilding and meditation. I'm excited to connect with like-minded individuals and contribute to the tech community through my work.
 
 # Highlighted Projects
 - page to page ai
