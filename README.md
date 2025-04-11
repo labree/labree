@@ -1,16 +1,31 @@
-## Hi there 👋
+Sections:
 
-<!--
-**labree/labree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+about me
+- what kind of dev i am, why i like to code, make me relatable
 
-Here are some ideas to get you started:
+highlighted projects
+- page to page ai
+- sustainable development insights
+- GW2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+skills
+- languages
+  - Python (coding)
+  - java (coding)
+  - typescript (coding)
+  - html (markup and style)
+  - css (markup and style)
+- Libraries and frameworks
+  - React Navtive
+  - Next.js
+  - Flask
+  - Django
+  - Minestom
+ - Tools
+   - Git
+   - Intellij IDEA
+   - VSCode
+   - Figma
+   - Gimp
+  
+Git stats
