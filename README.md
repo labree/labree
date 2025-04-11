@@ -27,5 +27,7 @@ skills
    - VSCode
    - Figma
    - Gimp
+
+social media
   
 Git stats
