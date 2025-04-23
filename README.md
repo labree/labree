@@ -1,9 +1,12 @@
-Space nerd and perpetually unemployed tech bro. Hope my work comes in handy for those who use it.
+Aspiring minecraft server developer and app developer.
 
 Currently developing [Galaxy Wars: The Remake](https://gw2-website-v2.vercel.app/)
 
-Website portfolio:
+Websites I've made:
+<br>
 https://gw2-website-v2.vercel.app/
+
+## Github Stats
   
 <p align="center">
   <picture>
